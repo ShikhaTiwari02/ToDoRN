@@ -1,11 +1,12 @@
-#Simple React Naitive Todo App
+# Simple React Naitive Todo App
+
 ## This has basic setup for App Creation
    * Redux
    * Redux Toolkit
    * Navigation Stack
 
 
-# Getting Started
+## Getting Started
 
 
 ## Step 1: Start the Metro Server
